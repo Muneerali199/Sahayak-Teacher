@@ -420,7 +420,7 @@ export default function LandingPage() {
             </div>
             
             <div className="mt-8 pt-8 border-t border-border/20 text-center text-sm text-muted-foreground">
-              Built with ❤️ by Team Sahayak for teachers everywhere.
+              Built with ❤️ by Team 1-blitz! for teachers everywhere.
             </div>
           </div>
         </footer>
